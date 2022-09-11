@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.komal i{
+  cursor: pointer;
+}
+
+.komal  .one{
+  color: rgb(248, 69, 69);
+}
+
+.komal   .two{
+  color: rgb(69, 147, 248);
+}
+
+.my-unique{
+  background-color: crimson;
+  padding: 5px ;
+  font-size: 15px;
+  color: white;
+  font-weight: bold;
+  border-radius: 1%;
+}
